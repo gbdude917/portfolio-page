@@ -9,7 +9,7 @@ function Skills() {
         <h2>Skills</h2>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <p>
-          "Anyone who keeps learning stays young." <br /> - Henry Ford
+          &quot;Anyone who keeps learning stays young.&quot; <br /> - Henry Ford
         </p>
       </div>
 

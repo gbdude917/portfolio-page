@@ -10,7 +10,7 @@ function BannerIntro() {
     >
       <section className={classes.text}>
         <h1>Hey there!</h1>
-        <h2>I'm Gabriel - an aspiring frontend developer.</h2>
+        <h2>I&apos;m Gabriel - an aspiring frontend developer.</h2>
       </section>
     </ParallaxBanner>
   );

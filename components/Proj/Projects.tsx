@@ -9,8 +9,8 @@ function Projects() {
         <h2>Projects</h2>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <p>
-          "Every project is an opportunity to learn, to figure out problems and
-          challenges, to invent and reinvent." <br /> - David Rockwell
+          &quot;Every project is an opportunity to learn, to figure out problems
+          and challenges, to invent and reinvent.&quot; <br /> - David Rockwell
         </p>
       </div>
 
