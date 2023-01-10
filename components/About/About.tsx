@@ -43,7 +43,7 @@ function About() {
             like to go workout in the gym, play video games, cook, try new
             restaurants and food, and catch up with some shows.
             <br />
-            <br />I appreciate your time for stopping by page and hope you reach
+            <br />I appreciate your time for stopping by my page and hope you reach
             out to me via LinkedIn or my email so we can get in touch!
           </div>
         </div>
