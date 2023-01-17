@@ -22,7 +22,7 @@ function Skills() {
             <SkillsCard>JavaScript</SkillsCard>
             <SkillsCard>ReactJS</SkillsCard>
             <SkillsCard>TypeScript</SkillsCard>
-            <SkillsCard>NextJS</SkillsCard>
+            <SkillsCard>Next.js</SkillsCard>
             <SkillsCard>SQL</SkillsCard>
             <SkillsCard>Java</SkillsCard>
             <SkillsCard>Python</SkillsCard>
